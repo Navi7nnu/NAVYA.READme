@@ -44,7 +44,7 @@ AI Developer &amp; ML Engineer | Deep Learning • NLP • LLMs • CV Building 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navi7nnu&" alt="navi7nnu" /></p>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Navya Koppala ... and I'm aA passionate ML Engineer || AI Developer | Cyber Security Specialist ..., from  Bangalore....</h2>
 
 ###
 
@@ -90,6 +90,8 @@ AI Developer &amp; ML Engineer | Deep Learning • NLP • LLMs • CV Building 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<video src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+      
+      
 ###
